@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+
+}
 body {
     background-image: url(https://img.freepik.com/foto-gratis/marron-beige-crema-claro-lujo-abstracto-como-fondo-modelo-textura-seda-algodon_1258-71591.jpg?w=740&t=st=1675087727~exp=1675088327~hmac=b57976ceb8a6a9277163288048cd33cbe67b2e4dd033a3d30030e49dbc336304);
     background-size: 100%;
